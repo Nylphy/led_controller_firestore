@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "90567993757",
+    "project_id": "led-strip-controller-flutter",
+    "storage_bucket": "led-strip-controller-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90567993757:android:d7409ca3abc12c59d46774",
+        "android_client_info": {
+          "package_name": "com.example.led_strip_controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90567993757-f4o16njkmecb4ncl8t1u3g67btnp2avo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-uMpcqeHs9pJgTBEfCKxJEny-zYIBWS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90567993757-f4o16njkmecb4ncl8t1u3g67btnp2avo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90567993757-cop3h3p9593eqs0hhe0a6u0g45et0m4m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ledStripController"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
